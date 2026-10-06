@@ -8,7 +8,7 @@ export function mountShell(user) {
   aside.innerHTML =
     '<a class="brand" href="' +
     (master ? '/master/admin' : '/') +
-    '"><img class="brand-mark" src="/assets/sessionlens-logo-v2.png" alt="" width="36" height="36" /><span>SessionLens<small>SESSION INTELLIGENCE</small></span></a><div class="nav-label">WORKSPACE</div><nav></nav><div class="sidebar-foot"><strong>Your sessions. Your infrastructure.</strong>Self-hosted recording &amp; replay</div>';
+    '"><img class="brand-mark" src="/assets/sessionlens-logo-v2.png" alt="" width="36" height="36" /><span>3duiq SessionLens<small>SESSION INTELLIGENCE</small></span></a><div class="nav-label">WORKSPACE</div><nav></nav><div class="sidebar-foot"><strong>Your sessions. Your infrastructure.</strong>Self-hosted recording &amp; replay</div>';
   const links = master
     ? [['▦', 'Companies', '/master/admin']]
     : [
