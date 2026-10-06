@@ -1,4 +1,4 @@
-# PageTracker static workspace
+# SessionLens static workspace
 
 Standalone static frontend with bundled fictional analytics and an illustrative replay.
 No MySQL, Express server, environment variables or dependency installation is required.
@@ -23,4 +23,4 @@ The login is a browser-side presentation gate using a salted PBKDF2 verifier and
 It is not server authentication. Bundled data, video and the password verifier are public assets.
 Never put real customer data or production secrets in this repository. Plaintext passwords are not included.
 
-This export is separate from the dynamic PageTracker service; no backend or production data is included.
+This export is separate from the dynamic SessionLens service; no backend or production data is included.

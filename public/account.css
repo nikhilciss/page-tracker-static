@@ -10,7 +10,7 @@
   background: #f5f7fb;
   --ink: #17243d;
   --muted: #758199;
-  --brand: #5364e8;
+  --brand: #4f5fd5;
   --line: #e7ebf3;
   --sidebar: 244px;
 }
@@ -124,29 +124,27 @@ main {
 .brand {
   display: flex;
   align-items: center;
-  gap: 11px;
-  color: white;
+  gap: 12px;
+  color: #f8fafc;
   font-size: 19px;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.4px;
+  line-height: 1.2;
 }
 .brand-mark {
-  display: inline-grid;
-  place-items: center;
-  width: 35px;
-  height: 35px;
-  background: linear-gradient(135deg, #6d7cfa, #6970dd);
-  color: white;
-  border-radius: 10px;
-  font-size: 22px;
-  box-shadow: 0 5px 20px #0003;
+  display: block;
+  flex: 0 0 36px;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  padding: 2px;
 }
 .brand small {
   display: block;
   font-size: 9px;
-  letter-spacing: 2.2px;
+  letter-spacing: 1.5px;
   font-weight: 500;
-  color: #8b97b2;
+  color: #a2aec4;
   margin-top: 5px;
 }
 .nav-label {

@@ -1,0 +1,3 @@
+Generated with the built-in image generation tool.
+
+Use case: logo-brand. Create a professional enterprise software logo symbol for SessionLens, a session analytics and replay product. Single distinctive geometric lens symbol with an elegant negative-space S integrated into the lens; simple, confident, precise flat vector-like geometry, strong silhouette legible at 32px. Indigo and periwinkle palette matching an existing indigo enterprise dashboard, suitable on both dark navy and white. Symbol only, no text, no letters outside the symbol, no wordmark, no mockup, no shadows, no 3D, no gradients. Square composition, center symbol filling about 90% of canvas with minimal even padding. Genuine transparent background.

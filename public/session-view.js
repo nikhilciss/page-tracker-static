@@ -95,7 +95,7 @@ export function who(context, fallback = {}, visitorId = null) {
       identity.user_name || identity.user_id
         ? 'Host-provided (not independently verified)'
         : 'Anonymous browser identity (not a logged-in account)',
-    'Authentication status': 'Host login not verified by Page Tracker',
+    'Authentication status': 'Host login not verified by SessionLens',
     'Remote IP address': c.ip || 'Not captured',
     'Geographic location': locationLabel(context),
     Browser: tech.browser,
